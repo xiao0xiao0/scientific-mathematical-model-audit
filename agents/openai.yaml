@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研数学模型审查"
+  short_description: "审查并深化科研公式、矩阵、微分方程、约束与优化模型"
+  default_prompt: "Use $scientific-mathematical-model-audit to audit and deepen this research model before it is written into the paper."
